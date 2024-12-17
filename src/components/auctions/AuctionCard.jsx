@@ -57,7 +57,7 @@ function QrFunction(){
         {/*<p>para: <span>{item.para}</span></p>*/}
 
         <hr/>
-        <p>categoria: <span>{item.category}</span></p>
+        <p>Categoria: <span>{item.category}</span></p>
         
         <hr />
 
