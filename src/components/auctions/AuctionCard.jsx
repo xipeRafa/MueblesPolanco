@@ -26,7 +26,7 @@ function QrFunction(){
       let typeNumber = 4;
       let errorCorrectionLevel = 'L';
       let qr = qrcode(typeNumber, errorCorrectionLevel);
-      qr.addData(`https://xiperafa.github.io/adminPolanco/${item.id}`);
+      qr.addData(`https://xiperafa.github.io/adminPolancoMuebles/${item.id}`);
       qr.make();
       return <div dangerouslySetInnerHTML={{ __html: qr.createImgTag() }} />
 }
