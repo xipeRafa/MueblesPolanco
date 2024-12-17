@@ -110,7 +110,7 @@ const resizeFile = (file) =>
       // stockHermosillo: Number(stockHermosillo.current.value),
 
       // talla: tallaState,
-      sucursal: 'Hermosillo',
+      // sucursal: 'Hermosillo',
       description: description.current.value,
     };
 
