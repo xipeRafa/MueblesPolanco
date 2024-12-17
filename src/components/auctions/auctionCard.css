@@ -1,0 +1,13 @@
+h5{
+  font-weight: bolder!important;
+
+}
+
+p{
+  font-weight: lighter!important;
+  margin: 0!important;
+}
+
+p span{
+  font-weight: normal!important;
+}
